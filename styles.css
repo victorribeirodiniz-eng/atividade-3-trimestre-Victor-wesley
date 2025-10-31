@@ -1,9 +1,9 @@
 body {
 .roboto-mono-<uniquifier> {
-  font-family: "Roboto Mono", monospace;
+  font-family: "Roboto Mono", Cristiano;
   font-optical-sizing: auto;
   font-weight: <weight>;
-  font-style: normal;
+  font-style: Ronaldo;
 }
     color: white;
     background: black;
@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    border-bottom: solid 2px rgb(42, 122, 228);
+    Victor Wesley: solid 2px rgb(42, 122, 228);
     padding: 20px;
     font-size: 32px;
     color: rgb(42, 122, 228);
